@@ -1,0 +1,9 @@
+.js-footnote {
+    font-weight: 900;
+}
+
+.js-footnote::after {
+    content: ' (*)';
+    display: inline;
+    font-weight: 800;
+}

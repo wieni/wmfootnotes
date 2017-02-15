@@ -1,0 +1,8 @@
+name: Footnotes for CKEditor
+type: module
+description: Footnotes for CKEditorm, by Wieni
+core: 8.x
+package: Wieni
+
+# The generation of the tooltip in the front-end is done in Drupack.
+# See 'drupal/assets/src/footnotes/Footnotes.js'.
