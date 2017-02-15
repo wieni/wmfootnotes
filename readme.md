@@ -13,4 +13,4 @@ Select a word in your html, click the footnote button, fill in the fields, ok.
 
 The result will be that the selected text is now wrapped in a "span" with class="footnote" and a number of data attribtues.
 
-Your Javascript developer should be able to handle it form there.
+Your Javascript developer should be able to handle it from there.
