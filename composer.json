@@ -1,0 +1,14 @@
+{
+    "name": "wieni/wmfootnotes",
+    "description": "Small ckeditor plugin for Drupal 8 that will add widget button to create and manage footnotes in HTML wysiwygs.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wieni",
+            "email": "info@wieni.be"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "type": "drupal-module"
+}
