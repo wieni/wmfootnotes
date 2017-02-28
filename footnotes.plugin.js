@@ -6,9 +6,6 @@
 
             CKEDITOR.dialog.add('footnotes', this.path + 'dialogs/footnotes.js');
 
-            var pluginDirectory = this.path;
-            editor.addContentsCss( pluginDirectory + 'css/footnote.css' );
-
             var deleteCommand = new CKEDITOR.command( editor, {
                             exec: function( editor ) {
                                 var selection = editor.getSelection();
