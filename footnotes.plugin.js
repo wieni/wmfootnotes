@@ -5,6 +5,7 @@
         init: function (editor) {
 
             CKEDITOR.dialog.add('footnotes', this.path + 'dialogs/footnotes.js');
+            editor.addContentsCss(this.path + 'css/footnote.css' );
 
             var deleteCommand = new CKEDITOR.command( editor, {
                             exec: function( editor ) {
